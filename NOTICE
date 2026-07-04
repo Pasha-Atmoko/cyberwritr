@@ -1,0 +1,12 @@
+Cyberwritr
+Copyright 2026 Cyberwritr
+
+This product includes software originally developed as "Strix"
+(https://github.com/usestrix/strix), Copyright 2025 OmniSecure Inc.,
+licensed under the Apache License, Version 2.0.
+
+The original code has been modified, including but not limited to:
+project renaming/rebranding, default LLM provider configuration
+(Moonshot / Kimi), and telemetry defaults.
+
+A copy of the Apache License, Version 2.0 is provided in the LICENSE file.
